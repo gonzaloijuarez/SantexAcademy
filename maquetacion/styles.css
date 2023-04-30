@@ -25,12 +25,14 @@ button {
     border: 2px solid black;
     font-size: 0.8em;
     width: 8em;
+    font-weight: 500;
 }
 button:hover{
     background-color: black;
     color: white;
     border: solid black 2px;
     transition: 0.4s;
+    font-weight: 500;
 }
 #navbar{
     display: flex; 
@@ -86,6 +88,7 @@ button.boton-contactanos:hover{
     border: solid black 2px;
     color: white;
     transition: 0.4s;
+    font-weight: 500;
 
 }
 button.boton-sumate:hover{
@@ -93,6 +96,7 @@ button.boton-sumate:hover{
     border: solid #6b53f0 2px;
     color: white;
     transition: 0.4s;
+    font-weight: 500;
 }
 
 @media (width >= 2500px) {
