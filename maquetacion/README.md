@@ -9,4 +9,6 @@ Sabado 29 de abril:
 Domingo 30 y lunes 1ro de mayo (feliz dia del trabajador para quien lea esto :smiling_face_with_three_hearts: ) :
 - Se genero la parte de .Impacto
 - Se pudo lograr la div con el equipo de fondo
+- Se pudo realizar con exito la parte de programas y capacitaciones
+  
 
