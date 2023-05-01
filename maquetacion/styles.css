@@ -1,6 +1,7 @@
 html {
     font-family: 'Inter', sans-serif;
     font-size: 16px;
+
 }
 
 body{
@@ -12,7 +13,7 @@ p {
     font-size: 0.8em;
     font-weight: 500;
 }
-p:hover{
+#navbar-right p:hover{
     color:#6b53f0;
     transition: 0.4s;
 }
@@ -55,18 +56,23 @@ div#navbar-left img {
     width: 9em;
 }
 
-h1#proposito{
+#nueva{
+    background-color: white;
+}
+
+h1#proposito-lema{
     margin: 90px 380px 40px 380px;
     text-align: center;
     font-weight: 600;
     font-size: 1.8em;
     color: #201b24;
+    
 }
-#botones-titulo{
+#botones-title{
     display: flex;
     justify-content:space-between; 
-    margin: 10px 540px
-    
+    margin: 10px 540px;
+    margin-bottom: 100px;
 }
 
 button.boton-contactanos{
@@ -97,6 +103,69 @@ button.boton-sumate:hover{
     color: white;
     transition: 0.4s;
     font-weight: 500;
+}
+
+div#impacto{
+    display: flex;
+    height: 450px;
+    background-color: #201b24;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+#impacto-left{
+    width: 50%;
+    margin: 0px 100px;
+    padding: 100px;
+}
+.subtitulo-impacto{
+    font-size: 0.85em;
+    line-height: 1.6em;
+    font-weight: 500;
+}
+#impacto-right{
+    display: flex;
+    width: 50%;
+    justify-content: baseline;
+    text-align: center;
+    margin: 10px;
+    position: relative;
+    right: 150px;
+    top: 25px;
+}
+
+.numbers{
+    font-size: 3em;
+    font-weight: 700;
+    margin: 0px 10px;
+}
+
+.undernumber{
+    font-size: 0.85em;
+    line-height: 1.6em;
+    font-weight: 400;
+    color: #8c939c;
+    margin: 0px 10px;
+    text-align: center;
+}
+
+.plus-sign{
+    color:#6b53f0;
+    font-size: 0.5em;
+    font-weight: 400;
+    position: relative;
+    bottom: 10px;
+}
+
+#background{
+    height: 100vh;
+    width: 100vw;
+    background-attachment: fixed;
+    overflow: scroll;
+    background-image: url(imagenes/twp-home.jpg);
+    size: cover;
+
 }
 
 @media (width >= 2500px) {

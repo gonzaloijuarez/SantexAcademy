@@ -5,3 +5,8 @@ Sabado 29 de abril:
 - Se logro mejorar el navbar logrando una gran similitud , los efectos de hover del navbar se pudieron recrear
 - Se pudo generar el h1 con el lema de la fundacion logrando una gran similitud
 - Se pudieron generar con exito los dos botones de contactanos y sumate con sus respectivas caracteristicas.
+
+Domingo 30 y lunes 1ro de mayo:
+- Se genero la parte de .Impacto
+- Se pudo lograr la div con el equipo de fondo
+
