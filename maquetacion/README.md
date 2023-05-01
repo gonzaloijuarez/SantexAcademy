@@ -6,7 +6,7 @@ Sabado 29 de abril:
 - Se pudo generar el h1 con el lema de la fundacion logrando una gran similitud
 - Se pudieron generar con exito los dos botones de contactanos y sumate con sus respectivas caracteristicas.
 
-Domingo 30 y lunes 1ro de mayo:
+Domingo 30 y lunes 1ro de mayo (feliz dia del trabajador para quien lea esto :smiling_face_with_three_hearts: ) :
 - Se genero la parte de .Impacto
 - Se pudo lograr la div con el equipo de fondo
 
