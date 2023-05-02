@@ -11,4 +11,8 @@ Domingo 30 y lunes 1ro de mayo (feliz dia del trabajador para quien lea esto :sm
 - Se pudo lograr la div con el equipo de fondo
 - Se pudo realizar con exito la parte de programas y capacitaciones
   
+Martes 02 de mayo:
+- Se realizo todas las cards de linkedin
+- Se realizo el footer
+
 
